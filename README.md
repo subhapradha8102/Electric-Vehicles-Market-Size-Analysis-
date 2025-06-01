@@ -11,5 +11,5 @@ Process Of Analysis:
 
 Software Used:
 
-Vs Code/Colab
+Visual Code/Colab
 
